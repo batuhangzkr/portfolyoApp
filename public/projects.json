@@ -1,0 +1,37 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Film Arama ve Favorilere Ekleme Uygulaması (Movie App)",
+        "description": "Kullanıcıların filmleri arayıp favorilerine ekleyebildiği, popüler filmleri listeleyen bir uygulama.",
+        "details": "Bu uygulama Next.js ve Tailwind CSS ile geliştirilmiştir. TMDB API'si kullanılarak filmler listelenir. Kullanıcılar popüler filmleri görebilir, arama yapabilir ve favori listelerini oluşturabilir. Ayrıca her film için detay sayfası bulunur.",
+        "technologies": ["Next.js", "Tailwind CSS", "TMDB API"],
+        "image": "/movie.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Blog Yönetim ve Okuma Uygulaması (Blog App)",
+        "description": "Dinamik bir JSON dosyasından blog yazılarını okuyan ve detaylı bir blog yönetimi sağlayan bir uygulama.",
+        "details": "Bu uygulama Next.js ve Tailwind CSS kullanılarak geliştirilmiştir. Kullanıcılar anasayfada blog yazılarının başlıklarını görebilir ve her bir blog için detaylı bilgiye ulaşabilir. JSON tabanlı bir backend ile veri çekilir ve detaylar responsive bir tasarımla sunulur.",
+        "technologies": ["Next.js", "Tailwind CSS", "JSON Backend"],
+        "image": "/blog.webp"
+      },
+      {
+        "id": 3,
+        "title": "Quiz Uygulaması (Quiz App)",
+        "description": "Kullanıcıların soruları cevapladığı ve puanlarını görebildiği eğlenceli bir sınav uygulaması.",
+        "details": "Bu uygulama Next.js ve Tailwind CSS ile geliştirilmiştir. JSON formatında sorular ve cevaplar barındırır. Kullanıcılar doğru cevapladıkları sorular için puan kazanır ve sonunda toplam puanları hesaplanır. Responsive tasarım ile her cihazda rahatça kullanılabilir.",
+        "technologies": ["Next.js", "Tailwind CSS", "JSON"],
+        "image": "/quiz.png"
+      },
+      {
+        "id": 4,
+        "title": "Yemek Tarifi Uygulaması (Recipe App)",
+        "description": "Kullanıcıların yemek tariflerini görüntüleyebileceği ve malzemelere göre arama yapabileceği bir uygulama.",
+        "details": "Bu uygulama Next.js ve Tailwind CSS ile geliştirilmiştir. Tarifler JSON dosyasından çekilir ve kullanıcılar anasayfada tarifleri görebilir. Her tarif için detaylı bir sayfa bulunmaktadır. Kullanıcılar malzeme listesine, hazırlık süresine ve pişirme adımlarına erişebilir.",
+        "technologies": ["Next.js", "Tailwind CSS", "JSON Backend"],
+        "image": "/quiz.png"
+      }
+    ]
+  }
+  
