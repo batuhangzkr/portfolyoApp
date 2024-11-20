@@ -1,5 +1,5 @@
 'use client';
-import HamburgerMenu from "../components/HamburgerMenu";
+import HamburgerMenu from "../../components/HamburgerMenu";
 
 export default function AboutPage() {
   return (

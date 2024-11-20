@@ -1,6 +1,6 @@
 'use client';
-import HamburgerMenu from "../components/HamburgerMenu";
-import ProjectCard from "../components/ProjectCard";
+import HamburgerMenu from "../../components/HamburgerMenu";
+import ProjectCard from "../../components/ProjectCard";
 import { useEffect, useState } from "react";
 
 export default function ProjectsPage() {
